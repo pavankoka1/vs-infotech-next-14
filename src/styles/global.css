@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none; /* for Safari and Chrome */
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none; /* for Internet Explorer and Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+.swiper-wrapper {
+    transition-timing-function: linear !important; /* Ensures linear scrolling */
+}

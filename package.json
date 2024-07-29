@@ -1,28 +1,28 @@
 {
-  "name": "vs-infotech-next-14",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@emotion/react": "^11.13.0",
-    "@emotion/styled": "^11.13.0",
-    "@mui/icons-material": "^5.16.5",
-    "@mui/material": "^5.16.5",
-    "framer-motion": "^11.3.19",
-    "next": "14.2.5",
-    "react": "^18",
-    "react-awesome-reveal": "^4.2.13",
-    "react-dom": "^18",
-    "react-type-animation": "^3.2.0",
-    "swiper": "^11.1.8"
-  },
-  "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
-  }
+    "name": "vs-infotech-next-14",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev -p 1729",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.13.0",
+        "@emotion/styled": "^11.13.0",
+        "@mui/icons-material": "^5.16.5",
+        "@mui/material": "^5.16.5",
+        "framer-motion": "^11.3.19",
+        "next": "14.2.5",
+        "react": "^18",
+        "react-awesome-reveal": "^4.2.13",
+        "react-dom": "^18",
+        "react-type-animation": "^3.2.0",
+        "swiper": "^11.1.8"
+    },
+    "devDependencies": {
+        "postcss": "^8",
+        "tailwindcss": "^3.4.1"
+    }
 }

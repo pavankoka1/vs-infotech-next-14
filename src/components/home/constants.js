@@ -1,6 +1,7 @@
 export const services = [
     {
         title: "Web Development",
+        image: "/assets/images/home/activity-selection.jpg",
         description: (
             <>
                 VS Infotech Solution offers tailored web and Mobile app
@@ -19,6 +20,7 @@ export const services = [
     },
     {
         title: "Software Development",
+        image: "/assets/images/home/connection-target.jpg",
         description: (
             <>
                 VS infotech Masters Program will provide you in-depth knowledge
@@ -40,6 +42,7 @@ export const services = [
     },
     {
         title: "Software Testing",
+        image: "/assets/images/home/hacking-screen.jpg",
         description: (
             <>
                 Software Testing is a process through which Quality Assurance is
@@ -56,17 +59,20 @@ export const services = [
     },
     {
         title: "Power BI",
+        image: "/assets/images/home/power-bi-lifecycle.png",
         description:
             "Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect to your data sources, visualize and discover what’s important, and share that with anyone or everyone you want",
     },
     {
         title: "Data Science",
+        image: "/assets/images/home/tech-hub.jpg",
         description:
             "Data Science Job Support is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses. Data Science Job Support lets you easily connect to your data sources, visualize and discover what’s important, and share that with anyone or everyone you want.",
     },
     {
         title: "Salesforce",
+        image: "/assets/images/home/people-board-room.webp",
         description:
             "CRM Masters Certification Program is designed to meet the industry benchmarks and will help you prepare for the Salesforce Administrator Exam (ADM 201), Platform App Builder (CRT 403), and Salesforce Dev 450 Certification exams. This Salesforce Masters Program focuses on core Salesforce CRM skills which are indispensable for Salesforce professionals. Throughout the program, you will learn important concepts such as how to customize your application including page layouts, fields, tabs, create reports, customize applications programmatically using Apex code and Visualforce UI framework along with hands-on demonstrations.",
     },
-];
+]
